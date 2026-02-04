@@ -20,7 +20,6 @@ body {
 
 #no-button {
     margin: 0 10px;
-    border-radius:12px;
     color: white;
     background-color: red;
     height: 40px !important;

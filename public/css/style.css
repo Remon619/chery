@@ -11,7 +11,6 @@ body {
 
 .buttons {
     display: flex;
-    border-radius:12px !important;
     justify-content: center;
     margin-top: 20px;
     flex-direction: row;
@@ -22,6 +21,7 @@ body {
 #no-button {
     margin: 0 10px;
     color: white;
+    border-radius:12px !important;
     background-color: red;
     height: 40px !important;
     width: auto;

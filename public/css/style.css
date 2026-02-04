@@ -11,7 +11,7 @@ body {
 
 .buttons {
     display: flex;
-    border-radius:12px;
+    border-radius:12px !important;
     justify-content: center;
     margin-top: 20px;
     flex-direction: row;

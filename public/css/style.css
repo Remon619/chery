@@ -49,6 +49,10 @@ body {
     }
 }
 
+#yes-button:hover, #no-button:hover {
+    transform: scale(1.05);
+}
+
 /* Make responsive for mobile */
 @media (max-width: 768px) {
     body {

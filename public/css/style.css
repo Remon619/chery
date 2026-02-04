@@ -22,6 +22,7 @@ body {
     margin: 0 10px;
     color: white;
     background-color: red;
+    border-radius: 25px;
     height: 40px !important;
     width: auto;
     border: none;
